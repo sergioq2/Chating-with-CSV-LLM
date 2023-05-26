@@ -1,0 +1,6 @@
+langchain==0.0.180
+pandas==2.0.1
+numpy==1.23.5
+fastapi==0.95.2
+uvicorn==0.22.0
+mangum
